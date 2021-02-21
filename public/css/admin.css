@@ -1,0 +1,13 @@
+.btn--add {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    z-index: 10;
+}
+
+.no__data {
+    width: 100%;
+    min-height: 150px;
+}

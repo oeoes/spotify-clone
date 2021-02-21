@@ -1,0 +1,126 @@
+@font-face {
+  font-family: 'oeoes-font';
+  src:  url('oeoes-font.eot?a5loge');
+  src:  url('oeoes-font.eot?a5loge#iefix') format('embedded-opentype'),
+    url('oeoes-font.ttf?a5loge') format('truetype'),
+    url('oeoes-font.woff?a5loge') format('woff'),
+    url('oeoes-font.svg?a5loge#oeoes-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'oeoes-font' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sp-camera:before {
+  content: "\e91d";
+}
+.sp-delete:before {
+  content: "\e91e";
+}
+.sp-edit:before {
+  content: "\e91f";
+}
+.sp-music:before {
+  content: "\e920";
+}
+.sp-speaker-mute:before {
+  content: "\e91c";
+}
+.sp-queue:before {
+  content: "\e913";
+}
+.sp-ellipsis-h:before {
+  content: "\e906";
+}
+.sp-pause-circle:before {
+  content: "\e91a";
+}
+.sp-pause:before {
+  content: "\e91b";
+}
+.sp-browse:before {
+  content: "\e900";
+}
+.sp-calendar:before {
+  content: "\e901";
+}
+.sp-check:before {
+  content: "\e902";
+}
+.sp-clock:before {
+  content: "\e903";
+}
+.sp-cross:before {
+  content: "\e904";
+}
+.sp-down:before {
+  content: "\e905";
+}
+.sp-home:before {
+  content: "\e907";
+}
+.sp-left:before {
+  content: "\e908";
+}
+.sp-loop:before {
+  content: "\e909";
+}
+.sp-love-fill:before {
+  content: "\e90a";
+}
+.sp-love:before {
+  content: "\e90b";
+}
+.sp-mic:before {
+  content: "\e90c";
+}
+.sp-next:before {
+  content: "\e90d";
+}
+.sp-play-circle:before {
+  content: "\e90e";
+}
+.sp-play:before {
+  content: "\e90f";
+}
+.sp-plus-circle:before {
+  content: "\e910";
+}
+.sp-plus:before {
+  content: "\e911";
+}
+.sp-previous:before {
+  content: "\e912";
+}
+.sp-radio:before {
+  content: "\e914";
+}
+.sp-right:before {
+  content: "\e915";
+}
+.sp-search:before {
+  content: "\e916";
+}
+.sp-shuffle:before {
+  content: "\e917";
+}
+.sp-speaker:before {
+  content: "\e918";
+}
+.sp-up:before {
+  content: "\e919";
+}
